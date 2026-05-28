@@ -1,0 +1,12 @@
+,show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description,year_added
+count,8807,8807,8807,8807,8807,8807,8709,8807.0,8807,8804,8807,8807,8709.0
+unique,8807,2,8807,4529,7693,749,,,17,220,514,8775,
+top,s8807,Movie,Zubaan,Unknown,Unknown,United States,,,TV-MA,1 Season,"Dramas, International Movies","Paranormal activity at a lush, abandoned property alarms a group eager to redevelop the site, but the eerie events may not be as unearthly as they think.",
+freq,1,6131,1,2634,825,2818,,,3211,1793,362,4,
+mean,,,,,,,2019-05-23 01:45:29.452290816,2014.1801975701146,,,,,2018.8879320243427
+min,,,,,,,2008-01-01 00:00:00,1925.0,,,,,2008.0
+25%,,,,,,,2018-04-20 00:00:00,2013.0,,,,,2018.0
+50%,,,,,,,2019-07-12 00:00:00,2017.0,,,,,2019.0
+75%,,,,,,,2020-08-26 00:00:00,2019.0,,,,,2020.0
+max,,,,,,,2021-09-25 00:00:00,2021.0,,,,,2021.0
+std,,,,,,,,8.819312130834057,,,,,1.5679605925584683
